@@ -1,0 +1,18 @@
+{
+  "deviceBoard": "OpenPLC Simulator",
+  "communicationPort": "COM8",
+  "runtimeIpAddress": "",
+  "vendorScreenData": {},
+  "vendorScreenDataByBoard": {
+    "OpenPLC Simulator": {},
+    "OpenPLC Runtime v4": {},
+    "OpenPLC Runtime v3": {},
+    "ESP32-S3": {},
+    "Arduino Uno": {},
+    "Arduino Uno Q": {},
+    "Arduino Uno R4": {},
+    "Arduino Uno R4 WiFi": {},
+    "Arduino Zero (Native USB Port)": {}
+  },
+  "selectedPlatformOptions": {}
+}
