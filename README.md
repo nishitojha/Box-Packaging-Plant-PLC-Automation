@@ -111,7 +111,7 @@ Stop or Emergency Stop at any time drops LED and halts the sequence (subject to 
 1. Install [OpenPLC Editor](https://autonomylogic.com/docs/installing-openplc-editor/).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Box-Packaging-Plant.git
+   git clone https://github.com/nishitojha/Box-Packaging-Plant-PLC-Automation.git
    ```
 3. In OpenPLC Editor, choose **Open Project** and select the cloned project folder.
 4. Compile, then upload to an OpenPLC Runtime target or run it in the simulator.
